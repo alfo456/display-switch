@@ -56,3 +56,5 @@ echo "Ripristino in corso!"
     
             echo "Il Backup è stato ripristinato"
 			echo "Ripristinati Atari Lynx, FBA, GG, GB, GBA, GBC, MasterSystem, Megadrive, NeoGeo, NES, PC Engine, PSX, Sega 32x, Sega CD, SNES"
+			
+exit 0
